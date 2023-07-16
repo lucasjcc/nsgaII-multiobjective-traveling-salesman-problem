@@ -1,5 +1,8 @@
 # ALGORITMO GENÉTICO APLICADO AO PROBLEMA DO CAIXEIRO VIAJANTE MULTIOBJETIVO
 
+## Nota inicial
+Este trabalho foi desenvolvido e apresentado na disciplina de *Otimização Multiobjetivo* do Programa de Pós-Graduação em Engenharia Elétrica da Universidade Federal de Minas Gerais.
+
 ## Resumo
 Apesar de fácil descrição, o Problema do Caixeiro Viajante apresenta um elevado grau de complexidade computacional. Devido à grande aplicabilidade dos conceitos envolvidos neste problema, algoritmos vêm sendo desenvolvidos com o intuito de solucioná-lo. Neste trabalho é desenvolvida uma metodologia de otimização multiobjetivo baseada no algoritmo genético NSGA-II, visando otimizar o problema. Posteriormente, é feita uma análise com o uso de indicadores para medir a qualidade destas soluções.
 
@@ -19,3 +22,8 @@ O PVC proposto por este trabalho consistem encontrar o ciclo hamiltoniano que mi
 
 ## Como rodar o projeto
 O arquivo principal do projeto chama-se `NSGAII.m`. Para rodar o projeto, basta configurar as variáveis parâmetros dentro deste arquivo é chamá-lo no `prompt` de comando.
+
+<hr>
+
+## Detalhamento
+Para maiores detalhes, basta acessar ao arquivo *pdf* presente na pasta arquivo deste projeto.
